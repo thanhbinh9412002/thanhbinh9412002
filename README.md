@@ -1,8 +1,8 @@
-# Hi, I'm <Thanh Binh>! 👋
+# Hi, I'm <Thanh_Binh>! 👋
 
 I am a student majoring in Data Engineering at the Faculty of Information Technology, with a strong passion for technology. My journey revolves around exploring the world of technology, seeking new ideas, and sharing knowledge with the community..
 
-![<thanhbinh9412002>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<thanhbinh9412002>'s Stats](https://github-readme-stats.vercel.app/api?username=<thanhbinh9412002>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
